@@ -138,11 +138,6 @@ The interactive dashboard consolidates key marketing metrics and provides filter
 - Campaign performance table
 - Date, channel, and campaign filters
 
-### Preview
-
-![Marketing Funnel & ROI Analytics Dashboard](Screenshots/dashboard.png)
-
-*Marketing Funnel & ROI Analytics Dashboard developed in Power BI.*
 
 ## 📈 Results & Key Findings
 
